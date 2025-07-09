@@ -1,1 +1,1 @@
-# This is my reote repo
+# This is my remote repo
